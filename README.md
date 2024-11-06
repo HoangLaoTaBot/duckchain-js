@@ -18,4 +18,4 @@
 | BOT_CHANNEL_ID |              | ID của telegram channel                                                                 |
 | BOT_TOKEN_LOGOUT |              | Token của bot telegram channel                                                          |
 | BOT_CHANNEL_ID_LOGOUT |              | ID của telegram channel                                                                 |
-| BOT_NAME_GAME | Duck Chain   | Tên [game]()                                                                                |
+| BOT_NAME_GAME | Duck Chain   | Tên game                                                                                |
